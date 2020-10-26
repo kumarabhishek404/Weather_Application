@@ -25,6 +25,5 @@
     "type": "git",
     "url": "https://github.com/heroku/Weather_Application"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
